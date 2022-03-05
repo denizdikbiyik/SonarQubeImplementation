@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2512984d-acc9-4f21-ae03-be0ee90da344": {
+      "ProjectGuid": "2512984d-acc9-4f21-ae03-be0ee90da344",
+      "DisplayName": "SonarQubeImplementation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
