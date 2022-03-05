@@ -1,0 +1,14 @@
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.exe
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.deps.json
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.runtimeconfig.json
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.runtimeconfig.dev.json
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.dll
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\bin\Debug\netcoreapp3.1\SonarQubeImplementation.pdb
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.csproj.AssemblyReference.cache
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.AssemblyInfoInputs.cache
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.AssemblyInfo.cs
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.dll
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.pdb
+C:\Users\Deniz\Documents\GitHub\SonarQubeImplementation\SonarQubeImplementation\obj\Debug\netcoreapp3.1\SonarQubeImplementation.genruntimeconfig.cache
